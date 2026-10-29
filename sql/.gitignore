@@ -1,0 +1,13 @@
+# secrets
+service_account*.json
+*.json.key
+.env
+
+# data and local files
+data_cache/
+*.zip
+
+# notebook and python junk
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
